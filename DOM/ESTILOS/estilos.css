@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+button{
+    font-size: 40px;
+}
+
+.boton {
+    border: none;
+    padding: 20px;
+}
+
+.boton-estilo01 {
+    background-color: rgb(208, 170, 238);
+}
+
+.boton-estilo02 {
+    background-color: rgb(205, 50, 146);
+}
